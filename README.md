@@ -1,2 +1,0 @@
-# Price-Prediction
-Price Prediction

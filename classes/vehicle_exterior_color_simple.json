@@ -1,0 +1,17 @@
+{
+    "white": 0,
+    "gray": 1,
+    "other": 2,
+    "blue": 3,
+    "black": 4,
+    "silver": 5,
+    "red": 6,
+    "green": 7,
+    "beige": 8,
+    "yellow": 9,
+    "brown": 10,
+    "gold": 11,
+    "orange": 12,
+    "purple": 13,
+    "pink": 14
+}
